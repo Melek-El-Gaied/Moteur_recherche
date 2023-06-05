@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1652060953 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analnefaitrien.cpp
+	"stat.h"
+	"analNeFaitRien.h"
+	<vector>
+	<bits/stdc++.h>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\stat.h
+	<iostream>
+	<string>
+
+1652062094 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analnefaitrien.h
+	"Analyseur.h"
+	<vector>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analyseur.h
+	"stat.h"
+	<vector>
+
+1651932838 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\indexvect.cpp
+	"indexVect.h"
+	"stat.h"
+	"moteur.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1651932838 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\indexvect.h
+	"index.h"
+	"moteur.h"
+	"stat.h"
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\index.h
+	"stat.h"
+	<vector>
+	<map>
+	<set>
+
+1652688769 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\moteur.h
+	"index.h"
+	"traiteur.h"
+	"Lecteur.h"
+	"Analyseur.h"
+	"ordonnanceur.h"
+	"stat.h"
+	<vector>
+	<map>
+
+1652060953 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteurtext.h
+	<vector>
+	<string>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\lecteur.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\ordonnanceur.h
+	"stat.h"
+	<map>
+	<vector>
+
+1652060023 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\lecteur_lect.cpp
+	"lecteur_lect.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1652060953 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\lecteur_lect.h
+	"lecteur.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1652691812 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\main.cpp
+	<iostream>
+	"moteur.h"
+	"Lecteur.h"
+	"lecteur_file.h"
+	"traiteur.h"
+	"traiteurMaj.h"
+	"traiteurPonct.h"
+	"traiteurDet.h"
+	"stat.h"
+	"Analyseur.h"
+	"analyseur_bool.h"
+	"analyseur_freq.h"
+	"analyseur_occ.h"
+	"index.h"
+	"index1.h"
+	"index2.h"
+	"ordonnanceur.h"
+	"ordonnanceur1.h"
+	<bits/stdc++.h>
+	<dirent.h>
+	<chrono>
+
+1652062379 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\ordnefaitrien.cpp
+	<iostream>
+	<vector>
+	<string>
+	"stat.h"
+	"ordNeFaitRien.h"
+	<map>
+
+1652062405 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\ordnefaitrien.h
+	"ordonnanceur.h"
+	"stat.h"
+
+1652486480 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\stat.cpp
+	<iostream>
+	<string>
+	"stat.h"
+
+1652486480 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteurmaj.cpp
+	"traiteurMaj.h"
+	<cctype>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteurmaj.h
+	"traiteur.h"
+	<iostream>
+	<vector>
+
+1652486480 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteurponct.cpp
+	"traiteurPonct.h"
+	<string>
+	<iostream>
+	<cctype>
+	<bits/stdc++.h>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteurponct.h
+	"traiteur.h"
+	<iostream>
+	<vector>
+
+1652119723 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\lecteur_req.cpp
+	"lecteur_req.h"
+	<iostream>
+	<vector>
+
+1652119100 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\lecteur_req.h
+	"lecteur.h"
+	<iostream>
+	<vector>
+
+1652451155 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteur.h
+	<vector>
+	<string>
+
+1652563114 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analyseur_bool.cpp
+	"stat.h"
+	"analyseur_bool.h"
+	<vector>
+	<bits/stdc++.h>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analyseur_bool.h
+	"Analyseur.h"
+	<vector>
+
+1652486480 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\lecteur_file.cpp
+	"lecteur_file.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\lecteur_file.h
+	"lecteur.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1652563114 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\ordonnanceur1.cpp
+	<iostream>
+	<vector>
+	<string>
+	"stat.h"
+	"ordonnanceur1.h"
+	<map>
+
+1652486798 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\ordonnanceur1.h
+	"ordonnanceur.h"
+	"stat.h"
+
+1652563114 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analyseur_freq.cpp
+	"stat.h"
+	"analyseur_freq.h"
+	<vector>
+	<bits/stdc++.h>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analyseur_freq.h
+	"Analyseur.h"
+	<vector>
+
+1652563114 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analyseur_occ.cpp
+	"stat.h"
+	"analyseur_occ.h"
+	<vector>
+	<bits/stdc++.h>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\analyseur_occ.h
+	"Analyseur.h"
+	<vector>
+
+1652587396 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\moteur.cpp
+	<iostream>
+	"moteur.h"
+	<bits/stdc++.h>
+	<string>
+
+1652587985 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\index1.cpp
+	"index1.h"
+	"stat.h"
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<map>
+	<string>
+	<set>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\index1.h
+	"index.h"
+	"stat.h"
+
+1652140163 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteurdet.cpp
+	"traiteurDet.h"
+	<bits/stdc++.h>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\traiteurdet.h
+	"traiteur.h"
+	<vector>
+	<set>
+
+1652587986 source:c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\index2.cpp
+	"index2.h"
+	"stat.h"
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<map>
+	<string>
+	<set>
+
+1652563114 c:\users\user\desktop\1anne\poo\mini projet\moteur_de_recherche\index2.h
+	"stat.h"
+	"index.h"
+

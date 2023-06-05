@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="moteur_de_recherche" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/moteur_de_recherche" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/moteur_de_recherche" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Analyseur.h" />
+		<Unit filename="analyseur_bool.cpp" />
+		<Unit filename="analyseur_bool.h" />
+		<Unit filename="analyseur_freq.cpp" />
+		<Unit filename="analyseur_freq.h" />
+		<Unit filename="analyseur_occ.cpp" />
+		<Unit filename="analyseur_occ.h" />
+		<Unit filename="index.h" />
+		<Unit filename="index1.cpp" />
+		<Unit filename="index1.h" />
+		<Unit filename="index2.cpp" />
+		<Unit filename="index2.h" />
+		<Unit filename="lecteur.h" />
+		<Unit filename="lecteur_file.cpp" />
+		<Unit filename="lecteur_file.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="moteur.cpp" />
+		<Unit filename="moteur.h" />
+		<Unit filename="ordonnanceur.h" />
+		<Unit filename="ordonnanceur1.cpp" />
+		<Unit filename="ordonnanceur1.h" />
+		<Unit filename="stat.cpp" />
+		<Unit filename="stat.h" />
+		<Unit filename="traiteur.h" />
+		<Unit filename="traiteurDet.cpp" />
+		<Unit filename="traiteurDet.h" />
+		<Unit filename="traiteurMaj.cpp" />
+		<Unit filename="traiteurMaj.h" />
+		<Unit filename="traiteurPonct.cpp" />
+		<Unit filename="traiteurPonct.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
